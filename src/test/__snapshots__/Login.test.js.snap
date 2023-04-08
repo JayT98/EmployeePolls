@@ -1,0 +1,212 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login should render the component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <h1
+          class="text-3xl font-bold mt-9 text-center"
+        >
+          Employee Polls
+        </h1>
+        <div
+          class="w-full h-max mt-10 flex justify-center"
+        >
+          <img
+            alt="Avatar_brand"
+            src="avatar_brand.png"
+          />
+        </div>
+        <h2
+          class="text-3xl font-bold mt-9 mb-5 text-center"
+          data-testid="login-heading"
+        >
+          Log In
+        </h2>
+        <form>
+          <div>
+            <label
+              class="block mb-5 text-base font-bold text-black text-center"
+              for="username"
+            >
+              User
+            </label>
+            <div
+              class="mt-1"
+            >
+              <input
+                class="px-4 py-2 bg-white  border shardow-sm border-slate-400 placeholder-slate-300 disabled:bg-slate-50 disabled:text-slate-500 disabled:border-slate-200 focus:outline-none focus:border-green-400 focus:ring-green-500 block w-full rounded-md sm:text-sm focus:ring-1 invalid:border-red-700 invalid:text-red-600 focus:invalid:border-red-500 focus:invalid:ring-red-500 disabled:shadow-none "
+                data-testid="username"
+                id="username"
+                name="username"
+                type="text"
+                value="sarahedo"
+              />
+            </div>
+          </div>
+          <div>
+            <label
+              class="block mb-5 mt-5 text-base font-bold text-black text-center"
+              for="password"
+            >
+              Password
+            </label>
+            <div
+              class="mt-1"
+            >
+              <input
+                class="px-4 py-2 bg-white  border shardow-sm border-slate-400 placeholder-slate-300 disabled:bg-slate-50 disabled:text-slate-500 disabled:border-slate-200 focus:outline-none focus:border-green-400 focus:ring-green-500 block w-full rounded-md sm:text-sm focus:ring-1 invalid:border-red-700 invalid:text-red-600 focus:invalid:border-red-500 focus:invalid:ring-red-500 disabled:shadow-none "
+                data-testid="password"
+                id="password"
+                name="password"
+                type="password"
+                value="password123"
+              />
+            </div>
+          </div>
+          <div
+            class="mt-6 text-center"
+          >
+            <button
+              class="bg-green-500 hover:bg-green-700 px-7 py-3 text-sm leading-5 font-bold rounded-md text-white"
+              data-testid="submit"
+              type="submit"
+            >
+              Submit
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <h1
+        class="text-3xl font-bold mt-9 text-center"
+      >
+        Employee Polls
+      </h1>
+      <div
+        class="w-full h-max mt-10 flex justify-center"
+      >
+        <img
+          alt="Avatar_brand"
+          src="avatar_brand.png"
+        />
+      </div>
+      <h2
+        class="text-3xl font-bold mt-9 mb-5 text-center"
+        data-testid="login-heading"
+      >
+        Log In
+      </h2>
+      <form>
+        <div>
+          <label
+            class="block mb-5 text-base font-bold text-black text-center"
+            for="username"
+          >
+            User
+          </label>
+          <div
+            class="mt-1"
+          >
+            <input
+              class="px-4 py-2 bg-white  border shardow-sm border-slate-400 placeholder-slate-300 disabled:bg-slate-50 disabled:text-slate-500 disabled:border-slate-200 focus:outline-none focus:border-green-400 focus:ring-green-500 block w-full rounded-md sm:text-sm focus:ring-1 invalid:border-red-700 invalid:text-red-600 focus:invalid:border-red-500 focus:invalid:ring-red-500 disabled:shadow-none "
+              data-testid="username"
+              id="username"
+              name="username"
+              type="text"
+              value="sarahedo"
+            />
+          </div>
+        </div>
+        <div>
+          <label
+            class="block mb-5 mt-5 text-base font-bold text-black text-center"
+            for="password"
+          >
+            Password
+          </label>
+          <div
+            class="mt-1"
+          >
+            <input
+              class="px-4 py-2 bg-white  border shardow-sm border-slate-400 placeholder-slate-300 disabled:bg-slate-50 disabled:text-slate-500 disabled:border-slate-200 focus:outline-none focus:border-green-400 focus:ring-green-500 block w-full rounded-md sm:text-sm focus:ring-1 invalid:border-red-700 invalid:text-red-600 focus:invalid:border-red-500 focus:invalid:ring-red-500 disabled:shadow-none "
+              data-testid="password"
+              id="password"
+              name="password"
+              type="password"
+              value="password123"
+            />
+          </div>
+        </div>
+        <div
+          class="mt-6 text-center"
+        >
+          <button
+            class="bg-green-500 hover:bg-green-700 px-7 py-3 text-sm leading-5 font-bold rounded-md text-white"
+            data-testid="submit"
+            type="submit"
+          >
+            Submit
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
